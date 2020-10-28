@@ -1,0 +1,2 @@
+#This program generates a random seven-digit lottery number between a range of 0 and 9.
+#Import the random function
